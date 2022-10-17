@@ -1,0 +1,4 @@
+1. Add alt. description to images
+2. Fill in 3rd recipe
+3. Add styles to links and resize images
+4. Run pages through html analyzer
